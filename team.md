@@ -6,3 +6,5 @@
 - Phan Thien Nhan b
 - Add 5 name
 - Add the 6 name Nhan
+- Add the 7 name Nhan
+- Add the 8 name Nhan
