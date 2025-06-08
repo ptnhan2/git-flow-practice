@@ -6,3 +6,4 @@
 - Add the 4 name: Phan Thien Nhan
 - Phan Thien Nhan b
 - Add the 6 name Nhan
+- Add the 7 name Nhan
